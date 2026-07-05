@@ -1,0 +1,23 @@
+﻿,,,,,,Sales by Month,,,Top 10 Customers,,,,
+,,,,,,,,,,,,,
+Sales by Region,,,Profit by Category,,,,,,,,,Top 5 Products,
+,,,,,,Region,(All),,Region,(All),,,
+,,,,,,,,,,,,,
+Row Labels,Sum of Sales,,Row Labels,Sum of Profit,,Row Labels,Sum of Sales,,Row Labels,Sum of Sales,,Category,(All)
+Central,501239.8908,,Furniture,18451.2728,,Jan,94924.8356,,Sean Miller,25043.05,,,
+Consumer,252031.434,,Central,-2871.0494,,Feb,59751.2514,,Tamara Chand,19052.218,,Row Labels,Sum of Sales
+Corporate,157995.8128,,East,3046.1658,,Mar,205005.4888,,Raymond Buch,15117.339,,Canon imageCLASS 2200 Advanced Copier,61599.824
+Home Office,91212.644,,South,6771.2061,,Apr,137762.1286,,Tom Ashbrook,14595.62,,Cisco TelePresence System EX90 Videoconferencing Unit,22638.48
+East,678781.24,,West,11504.9503,,May,155028.8117,,Adrian Barton,14473.571,,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,27453.384
+Consumer,350908.167,,Office Supplies,122490.8008,,Jun,152718.6793,,Ken Lonsdale,14175.229,,GBC DocuBind TL300 Electric Binding System,19823.479
+Corporate,200409.347,,Central,8879.9799,,Jul,147238.097,,Sanjit Chand,14142.334,,HON 5400 Series Task Chairs for Big and Tall,21870.576
+Home Office,127463.726,,East,41014.5791,,Aug,159044.063,,Hunter Lopez,12873.298,,Grand Total,153385.743
+South,391721.905,,South,19986.3928,,Sep,307649.9457,,Sanjit Engle,12209.438,,,
+Consumer,195580.971,,West,52609.849,,Oct,200322.9847,,Christopher Conant,12129.072,,,
+Corporate,121885.9325,,Technology,145454.9481,,Nov,352461.071,,Grand Total,153811.169,,,
+Home Office,74255.0015,,Central,33697.432,,Dec,325293.5035,,,,,,
+West,725457.8245,,East,47462.0351,,Grand Total,2297200.86,,,,,,
+Consumer,362880.773,,South,19991.8314,,,,,,,,,
+Corporate,225855.2745,,West,44303.6496,,,,,,,,,
+Home Office,136721.777,,Grand Total,286397.0217,,,,,,,,,
+Grand Total,2297200.86,,,,,,,,,,,,
