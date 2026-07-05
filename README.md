@@ -62,7 +62,7 @@ This project analyzes Superstore sales data and presents key business insights t
 
 ---
 
-## 👨‍💻 Author
+
 **Gurjeet**
 
 MBA (Business Analytics)
